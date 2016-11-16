@@ -188,6 +188,11 @@ input[type="submit"] {}
 	margin: 5px;
 }
 
+#pictures li img {
+	width: 150px;
+	height: 150px;
+}
+
 blockquote {
 	margin: 25px 30px 5px;
 }
