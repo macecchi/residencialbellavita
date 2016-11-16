@@ -1,0 +1,2 @@
+<h3>Conheça os serviços</h3>
+<p>Nosso residencial oferece todos os serviços para o bem-estar do idoso, de acordo com sua necessidade. Reabilitação, moradia, day care e pós-operatório. <a href="/servicos">Leia mais clicando aqui.</a></p>
