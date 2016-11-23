@@ -37,7 +37,7 @@ if (isset($_POST["enviar"])) {
 <p>Obrigado pelo seu contato. Sua mensagem será respondida em breve por e-mail ou por telefone. Se preferir, nos ligue!</p>
 
 <p align="center">
-(17) 1222-1121
+(13) 3225-7727
 </p>
 
 <?php
