@@ -1,8 +1,0 @@
-test:
-  override:
-    - echo "No tests."
-deployment:
-  production:
-    branch: master
-    commands:
-      - ssh rbv@residencialbellavita.com.br "cd ~/site && git pull"
