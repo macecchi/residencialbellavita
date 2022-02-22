@@ -1,3 +1,3 @@
-# Residencial Bella Vita
+# Residencial Bella Village
 
-Site do Residencial Bella Vita - http://www.residencialbellavita.com.br/
+Site do Residencial Bella Village - http://www.residencialbellavita.com.br/
